@@ -5,13 +5,13 @@ Udacity Data Scientist Nanodegree Project 3 Identify Customer Segments
 
 **Table of Contents**
 
- "*"Installation
+ *Installation
 
- "*"Project Motivation
+ *Project Motivation
 
- "*"File Descriptions
+ *File Descriptions
 
- "*"Licensing, Authors, and Acknowledgements
+ *Licensing, Authors, and Acknowledgements
 
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
